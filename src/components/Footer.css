@@ -1,0 +1,37 @@
+.bottom-buttons {
+    width: 100% ;
+    display: flex;
+    justify-content: space-evenly;
+    position: fixed;
+    bottom: 40px;
+}
+
+.bottom-buttons .replay {
+    padding: 3vv !important;
+    color: black;
+    box-shadow: 0px 10px 40px 0px rgba(0, 0, 0, .3);
+}
+
+.bottom-buttons .close {
+    padding: 3vv !important;
+    color: red;
+    box-shadow: 0px 10px 40px 0px rgba(0, 0, 0, .3);
+}
+
+.bottom-buttons .favorite {
+    padding: 3vv !important;
+    color: rgb(166, 34, 129);
+    box-shadow: 0px 10px 40px 0px rgba(0, 0, 0, .3);
+}
+
+.bottom-buttons .starrate {
+    padding: 3vv !important;
+    color: yellow;
+    box-shadow: 0px 10px 40px 0px rgba(0, 0, 0, .3);
+}
+
+.bottom-buttons .flashon {
+    padding: 3vv !important;
+    color: blue;
+    box-shadow: 0px 10px 40px 0px rgba(0, 0, 0, .3);
+}
